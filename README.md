@@ -8,7 +8,7 @@ The more things that I think, they could have made the project better but I have
 
 ## Run project
 
-to run the project you should only execte `run start` on the root directory.
+to run the project, firt clone the project, then run `yarn install` and then `run start` on the root directory.
 
 ## Example of searching
 
